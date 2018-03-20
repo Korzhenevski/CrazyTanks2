@@ -210,7 +210,6 @@ public:
 
 class Tank : public Object
 {
-	bool isHero;
 public:
 	Tank()
 	{
